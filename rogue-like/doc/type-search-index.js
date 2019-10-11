@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"slimani_tarabay.rogue_like","l":"Deplacer"}]
